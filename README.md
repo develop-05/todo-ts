@@ -1,4 +1,4 @@
-https:\\ts-todo-DK.surge.sh
+https://ts-todo-dk.surge.sh/
 
 # Getting Started with Create React App
 
